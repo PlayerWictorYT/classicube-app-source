@@ -1,0 +1,22 @@
+"apps": [
+  {
+    "name": "ClassiCube",
+    "bundleIdentifier": "com.classicube.classicube",
+    "developerName": "ClassiCube",
+    "subtitle": "ClassiCube For iOS.",
+    "versions": [
+      {
+        "version": "latest",
+        "date": "2020-04-21",
+        "localizedDescription": "Latest Version Of ClassiCube.",
+        "downloadURL": "https://cdn.classicube.net/client/latest/ClassiCube.ipa",
+        "size": 87129
+      },
+    ],
+    "localizedDescription": "ClassiCube Not Offical Source.",
+    "iconURL": "https://styles.redditmedia.com/t5_31pho/styles/communityIcon_5actvm3koo921.png",
+    "tintColor": "8A28F7",
+    ],
+    "beta": true
+  }
+],
